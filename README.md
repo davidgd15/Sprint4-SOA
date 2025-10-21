@@ -117,3 +117,13 @@ Método	/ Rota / Descrição / Status
   "idade": 30
 }
 ````"# Sprint4-SOA" 
+
+### 👥 Integrantes
+
+| Nome               | RM        |
+|--------------------|-----------|
+| David Denunci      | RM 98603  |
+| Lucas de Toledo    | RM 97913  |
+| Fernando Popolili  | RM 99919  |
+| Augusto Milreu     | RM 98245  |
+| Matheus Zanardi    | RM 98832  |
